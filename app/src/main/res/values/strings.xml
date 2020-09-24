@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Enquete2020</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="partager">Partager</string>
+</resources>
